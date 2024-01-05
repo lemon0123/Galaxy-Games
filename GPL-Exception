@@ -1,0 +1,39 @@
+Cavemanon Affero GPL v3.0 Video Game Store Front Exception v1.0 - CAGPL-/VG/SFE v1.0
+Copyright (C) 2021 Cavemanon
+Everyone is permitted to copy and distribute verbatim copies of this license exception document. Remixing is allowed so long as the name and copyright information has been changed.
+
+
+The purpose of this exception is to offer a nullification of some parts of the GNU Affero GPL and CC-BY-SA 4.0 as to allow our software to be distributable by common digital store fronts that users may use. The point of this is to allow users of these digital store fronts to gain access to our software and for us to profit off the software. No terms in this agreement should violate the end user's freedom to share, distribute, use, etc. any part of the Cavemanon sourced parts of the software. We are also commited to not pushing users towards using these platforms by feature hogging, thus clauses on disallowing Cavemanon from adding additional content to digital storefronts as to incentivise these platform's use has been added. Independently sourced versions of software will not have these requirement though as end users can easily set up repositories of their own to host the software in a freedom respecting way. 
+
+
+===BEGIN TERMS OF EXCEPTION===
+Feature Parity - is defined as equivalence in features in purpose, but not necessarily code or function. I.e If the independent version of the software has an updater built into it and the digital store front version of the software uses the digital store front's software for updates, then both are in feature parity due to both having an updater.
+
+contributors - Those who have, with Cavemanon's approval, added content (rather it be assets, writing, code, etc.) to the game.
+
+digital store fronts - Those stores that distribute software to consumers by any methodology.
+
+independently sourced versions - Versions of the software that have been sourced in such a way that the exception for digital store fronts does not apply. 
+
+This exemption only tackles licensing exemptions. Non-Cavemanon approved digital store fronts may, so long as they do not violate the GNU Affero GPL v3.0 or CC-BY-SA 4.0, distribute our software as those licenses dictate without any hinderance.
+These terms only apply to software Cavemanon has copyrights over. Any remixes or additions to our software need not follow this exemption policy.
+
+Cavemanon and its contributors to Snoot Game agree to give Cavemanon exclusive choice over what digital store fronts get an exclusive, non-transferable right to host Snoot Game and its assets without triggering any of the copyleft or sharealike properties of the GNU Affero GPL v3.0 or the CC-BY-SA 4.0 in their distribution. Any distribution of Cavemanon intellectual properties by these digital store fronts will retain the GNU Affero GPL v3.0 and CC-BY-SA 4.0 licensing scheme but with an exception to any storefront added software. This practically means that, so long as Cavemanon is the one listing the software on a digital store front that would in some way violate the GNU Affero GPL or CC-BY-SA 4.0, that violation would be made null and void. However, the GNU Affero GPL v3.0 and CC-BY-SA 4.0 would still apply to any downstream users who obtained the intellectual properties from said digital store front. Users who receive the product must be able to distribute all source code, assets, and object code of the software in accordance with the GNU Affero GPL v3.0 and CC-BY-SA 4.0 regardless of how they obtain it. However, there is an exception for digital storefront added software. These intellectual properties will be exempt from the source code, object code, and asset distribution clauses in the GNU Affero GPL v3.0 and CC-BY-SA 4.0 and thus should not be distributed with the software if one wishes to share. This right given to digital storefronts can be revoked at any time by Cavemanon.
+
+This agreement is true so long as Cavemanon and its contributors offers one-way feature parity to the best of their ability between digital storefront sourced software and independently sourced versions of the software. I.e The alternatively licensed digital store-front version cannot have any more features than the usual GNU Affero GPL + CC-BY-SA 4.0 version except in cases where being on said digital storefront gives extras features (such as integration into the digital store front's services) or in scenarios where an infringement of a patent, copyright, or trademark would occur. However, the independently sourced versions of the software does not need to follow this rule and can have any amount of exclusive features or content.
+
+This clause also does not apply if Cavemanon has not been given significant time to implement the features to offer feature parity. This time period must be reasonable to the amount of work that would be required to offer feature parity plus one month. 
+
+Any oversight by Cavemanon in where issues with the software, accidental forgotten features, or other mishaps with the software would not constitute a violation so long as the reasonable amount of time clause is being followed.
+
+For a violation of this principal to be valid, said violation must have the intent to violate behind it with provable conspiracy to violate. Any mistake that is purposefully not corrected in a reasonable amount of time would constitute a violation of this agreement.
+
+Cavemanon may change the terms of this agreement at any time, for any reason, and without the consent of those contributing so long as said changes stay in line with the intent of allowing distribution of Cavemanon sourced software on digital store fronts without creating a situation in where usage of the digital store front is at a feature advantage to the independently sourced software besides in scenarios in where the digital store front offers features or interactions that are integrated with use of said digital store front.
+
+Cavemanon may change the terms of this agreement in ways that don't fit into the original intent of this exception so long as contributor approval is given.
+
+In such a case where Cavemanon has overtly violated this principle, contributors can revoke Cavemanon's right to use the code in future iterations of the software until the problem has been remedied. In such cases, Cavemanon cannot distribute any versions of the software with said code after the violation has been stated until the problem has been sufficiently remedied.
+
+However, if there was a transfer of copyright to Cavemanon, this revoking of right to use code is now in Cavemanon's hands and thus the contributor loses all privilege to enforce this.
+
+===END TERMS OF EXCEPTION===

@@ -1,2 +1,5 @@
-# Galaxy-Games
-play games i guess?
+# Snoot Game
+
+<h1>Contributing</h1>
+<p>Find an issue and start working. Creating issues is very helpful. Simply emailing patches/updated versions of the script works too. <b>All PRs/Contributions to the main code should go to the patch branch and NOT master as to leave master a stable branch</b>. All contributions belong to you, but are licensed under the GNU AGPL v3 and are adherent to the GPL-Exception in the root of the project file.</p>
+<p>It should be noted that any non-contributor sourced assets for the game MUST be under some form of free licensing that is <a href=https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/>compatable with the CC-BY-SA 4.0 (Listed in this link as BY-SA)</a> for it to be added to the game. This includes audio, images, other bits of code, and other copyrightable assets. Compatable licenses include, but aren't limited to, CC-BY, Public Domain, CC-BY-SA 4.0, CC-BY-SA 3.0, The Free Art license, or any other license that is permissive in how it is used.</p>
